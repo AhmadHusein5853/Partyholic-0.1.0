@@ -5,7 +5,7 @@ import requests
 import re
 from geopy.geocoders import Nominatim
 
-# put your API-KEY heer
+# put your API-KEY here
 api_key = ''
 
 # send a request to the OCR-API
